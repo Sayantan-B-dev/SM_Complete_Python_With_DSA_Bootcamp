@@ -1,0 +1,86 @@
+# =========================
+# PYTHON CACHE / BYTECODE
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# =========================
+# VIRTUAL ENVIRONMENTS
+# =========================
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+pip-wheel-metadata/
+
+# =========================
+# DATABASE FILES
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# ENVIRONMENT VARIABLES / SECRETS
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# IDE / EDITOR CONFIG
+# =========================
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# OS / SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# LOG FILES
+# =========================
+*.log
+logs/
+log/
+instance/
+
+# =========================
+# BUILD / DISTRIBUTION
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# TEST / COVERAGE
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# CACHE / TEMP FILES
+# =========================
+.cache/
+.tmp/
+temp/
+tmp/

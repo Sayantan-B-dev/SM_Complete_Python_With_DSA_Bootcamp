@@ -1,0 +1,480 @@
+Section 1: Introduction
+  1. Introduction
+Section 2: IDE's And Code Editors You Can Use
+  2. Getting Started With Google Colab
+  3. Getting Started With Github Codespace
+  4. Anaconda And VS Code IDE Installation
+  5. Anaconda Installation In Mac
+  6. Anaconda Installation In Linux
+Section 3: Getting Started With Python Programming Language
+  7. Getting Started With VS Code
+  8. Python Basics- Syntax and Semantics
+  9. Variables In Python
+  10. Basic Datatypes In Python
+  11. Operators In Python
+Section 4: Python Control Flow
+  12. Conditional Statements (if,elif,else)
+  13. Loops In Python
+Section 5: Inbuilt Data Structures In Python
+  14. List And List Comprehrension In Python
+  15. Sets In Python
+  16. Dictionaries In Python
+  17. Tuples In Python
+  18. Real World Usecases Of List
+Section 6: Functions In Python
+  19. Getting Started With Functions
+  20. More Coding Example With Functions
+  21. Python Lambda Functions
+  22. Map functions In Python
+  23. Filter Function In Python
+Section 7: Code resources for the course
+  24. Code Files
+Section 8: Flowchart and Problem Solving
+  25. Introduction to Flowcharts
+  26. What is a Pseudocode ?
+  27. Framework to Solve a Problem
+Section 9: Pattern Practice Questions
+  Coding Exercise 1: Square of side 'N'
+  Coding Exercise 2: Hollow Square of side 'N'
+  Coding Exercise 3: Rectangle Pattern
+  Coding Exercise 4: Right Angled Triangle
+  Coding Exercise 5: Inverted Right Angled Triangle
+  Coding Exercise 6: Pyramid Pattern
+  Coding Exercise 7: Inverted Pyramid Pattern
+  Coding Exercise 8: Right Angled Triangle with Numbers
+  Coding Exercise 9: Floyds Triangle
+  Coding Exercise 10: Diamond Pattern
+  Coding Exercise 11: Right Angled Triangle II
+  Coding Exercise 12: Sandglass Pattern
+  Coding Exercise 13: Hollow Right Triangle
+  Coding Exercise 14: Hollow Inverted Right Triangle
+  Coding Exercise 15: Number Pyramid Pattern
+Section 10: Function Practice Questions
+  Coding Exercise 16: Celsius to Fahrenheit
+  Coding Exercise 17: Area of a Rectangle
+  Coding Exercise 18: Distance covered by a Vehicle
+  Coding Exercise 19: Number of Rounds of Lift
+  Coding Exercise 20: Line Equation
+Section 11: Inbuilt Data Structure : Practice Questions
+  28. A Guide to attempting Coding Exercises
+  Coding Exercise 21: Sum of List Elements
+  Coding Exercise 22: Largest Element in a List
+  Coding Exercise 23: Remove Duplicate in a List
+  Coding Exercise 24: Check if all elements in a list are Unique
+  Coding Exercise 25: Program to Reverse a List
+  Coding Exercise 26: Count Number of Odd and Even Elements in a List
+  Coding Exercise 27: Maximum difference between two consecutive elements in a list.
+  Coding Exercise 28: Merge two Sorted List
+  Coding Exercise 29: Rotate a List
+  Coding Exercise 30: Merge 2 List into Dictionary
+  Coding Exercise 31: Merge Multiple Dictionaries
+  Coding Exercise 32: Words Frequency in a Sentence
+  Coding Exercise 33: Palindromic Tuple
+  Coding Exercise 34: Merge Dictionaries with Common Keys
+  Coding Exercise 35: Check if List is Subset of another List
+Section 12: Mathematics Practice Questions
+  Coding Exercise 36: Sum of N Even Natural Numbers
+  Coding Exercise 37: Check for Even Number
+  Coding Exercise 38: Check for Prime Number
+  Coding Exercise 39: Valid Perfect Square
+  Coding Exercise 40: Decimal to Binary
+  Coding Exercise 41: Binary to Decimal
+  Coding Exercise 42: GCD of Two Numbers
+Section 13: String Practice Questions
+  Coding Exercise 43: Reverse a string
+  Coding Exercise 44: Count Vowels in a string
+  Coding Exercise 45: Check for same strings
+  Coding Exercise 46: Check Palindrome
+  Coding Exercise 47: Count words in a string
+  Coding Exercise 48: Remove Duplicates in a string
+  Coding Exercise 49: Count consonants in a string
+  Coding Exercise 50: Check for anagrams
+  Coding Exercise 51: Check Subsequence
+  Coding Exercise 52: Check for Substring
+  Coding Exercise 53: Length of the Longest Word
+Section 14: Searching and sorting Algorithm
+  29. Introduction to Arrays in Python
+  30. Linear Search
+  Coding Exercise 54: Linear Search Algorithm
+  31. Binary Search Algorithm
+  32. Bubble Sort - Explanation and visualisation
+  Coding Exercise 55: Code Bubble Sort
+  33. Bubble Sort - Implementation
+  34. Selection Sort - Explanation and Visualisation
+  Coding Exercise 56: Selection Sort
+  35. Selection Sort Implementation
+  36. Insertion Sort Discussion and Visualization
+  Coding Exercise 57: Insertion Sort
+  37. Insertion Sort Implementation
+Section 15: Binary Search Practice Questions
+  Coding Exercise 58: Count negative numbers in a sorted matrix
+  Coding Exercise 59: Find smallest letter greater than target
+  Coding Exercise 60: Find First and Last Position of Element in Sorted Array
+  Coding Exercise 61: Minimum in Rotated Sorted Array
+  Coding Exercise 62: Search in Rotated Sorted Array
+Section 16: List/Array Practice Questions
+  Coding Exercise 63: Maximum Element in a List.
+  Coding Exercise 64: Sum of Elements in a List
+  Coding Exercise 65: Palindrome List
+  Coding Exercise 66: Reverse a List
+  Coding Exercise 67: Rotate List
+  Coding Exercise 68: Plus One in the Number
+  Coding Exercise 69: Missing Number
+  Coding Exercise 70: Is Array Sorted?
+  Coding Exercise 71: Move Zeroes
+  Coding Exercise 72: Intersection of two Lists
+  Coding Exercise 73: Max Consecutive Ones
+  Coding Exercise 74: Maximum Subarray Sum
+Section 17: Practice Questions : 2D List
+  Coding Exercise 75: Pascal's Triangle
+  Coding Exercise 76: Rotate Image
+  Coding Exercise 77: Matrix obtained by Rotation or not?
+  Coding Exercise 78: Spiral Matrix
+  Coding Exercise 79: Search a 2D Matrix
+  Coding Exercise 80: Reshape Matrix
+Section 18: Importing Creating Modules And Packages
+  38. Import Modules And Packages In Python
+  39. Standard Library Overview
+Section 19: File Handling In Python
+  40. File Operation In Python
+  41. Working With File Paths
+Section 20: Exception Handling In Python
+  42. Exception Handling With Try Except And Finally Blocks
+Section 21: OOPS Concepts With Classes And Objects
+  43. Classes And Objects In Python
+  44. Inheritance In OOPS
+  45. Polymorphism In OOPS
+  46. Encapsulation In OOPS
+  47. Abstraction In OOPS
+  48. Magic Methods In Python
+  49. Operator Overloading In Python
+  50. Custom Exception Handling
+Section 22: Practice Questions OOPS
+  Coding Exercise 81: Bank Account System
+  Coding Exercise 82: Calculator
+  Coding Exercise 83: Complex Number Class
+  Coding Exercise 84: Fraction Class
+  51. List as Dynamic Array
+  52. Coding Custom List- Part 1
+  53. Coding Custom List - Part 2
+  Coding Exercise 85: Implementing our own List Class
+Section 23: More Advanced Python Topics
+  54. Deep Dive Into Iterators In Python
+  55. Generators With Practical Implementationn And Usecases
+  56. Deep Dive Into Function Copy,Closures and Decorators
+Section 24: Recursion
+  57. Flow of Function
+  58. Function Calling Itself
+  59. Factorial of a number with Recursion
+  Coding Exercise 86: Factorial of a number using Recursion
+  60. Understanding PMI for recursion
+  61. Question - Sum of N numbers
+  Coding Exercise 87: Sum of N numbers using Recursion
+  62. Solution - Sum of N Natural using Recursion
+  63. Question - Number of Digits
+  Coding Exercise 88: Number of Digits using Recursion
+  64. Fibonacci Series - Recursion
+  65. Recursive Tree - Fibonacci
+  Coding Exercise 89: Fibonacci Series using Recursion
+  66. Head vs Tail Recursion
+  67. Print 1 to N
+  Coding Exercise 90: Print 1 to N using Recursion
+  68. Print N to 1
+  Coding Exercise 91: Print N to 1 using Recursion
+Section 25: Recursion and Arrays
+  69. Recursion on List/Arrays
+  70. Check if Array is Sorted
+  71. Sum of an Array
+  Coding Exercise 92: Sum of an Array using Recursion
+  72. First Index of a Element in List
+  73. First Index of a Element in List
+  Coding Exercise 93: First Index of an Element using Recursion
+  74. Print all Index of An Element
+  Coding Exercise 94: Print all Index of Element using Recursion
+  75. Update All Indices in the List provided in Function
+  76. Update Indices in a Global List
+  77. Return List of all Indices
+Section 26: Search and Sort Using Recursion
+  78. Linear Search Using Recursion
+  Coding Exercise 95: Linear Search using Recursion
+  79. Binary Search Using Recursion- Part 1
+  80. Binary Search Using Recursion - Part 2
+  81. Merge Sort Intro
+  82. Merge Sort - Solution
+  Coding Exercise 96: Merge sort using Recursion
+  83. Quick Sort introduction
+  84. Quick Sort Solution
+  Coding Exercise 97: Quick sort using Recursion
+Section 27: Recursion with Strings
+  85. Recursion and Strings
+  86. Palindrome Check With Recursion
+  Coding Exercise 98: Palindrome Check using Recursion
+  87. String, Substring and Subsquence
+  88. Return Subsequences of a string
+  89. Print Subsequences of a string
+  Coding Exercise 99: Subsequences of a String
+  90. Print Permutations
+  91. Return Permutations of a string
+  Coding Exercise 100: Permutation of a String
+  92. Keypad Words - Google Interview Problem
+  93. Return all Codes (HW)
+  94. Tower of Hanoi (HW)
+Section 28: Complexity Analysis : Time Complexity of an Algorithm
+  95. Introduction to Complexity Analysis
+  96. Intro To Time Complexity
+  97. Quantifying the Time Complexity
+  98. Asymptotic Notation and Analysis
+  99. Asymptotic - Big O notation
+  100. Big Omega and Theta
+  101. Middle of a List
+  102. Largest in an array
+  103. Bubble Sort Time Complexity
+  104. Insertion Sort - Time Complexity
+  105. Selection Sort-Time Complexity
+  106. Time Complexity - Factorial Recursion
+  107. Binary Search - Time Complexity
+  108. Merge Sort - Time Complexity
+  109. Fibonacci Number - Time Complexity
+  110. Visualising Complexities
+Section 29: Complexity Analysis : Space Complexity of an Algorithm
+  111. Space Complexity Introduction
+  112. Finding Space Complexity of Recursive Algorithm
+  113. Fibonicci of a Number - Space Complexity
+  114. Merge Sort - Space Complexity
+Section 30: Data Structure : Linked List
+  115. Introduction To Data Structure
+  116. Intro To Linked List
+  117. Create Linked List
+  118. Print LL
+  119. Take Input of Linked List - I
+  120. Take Input of Linked List II
+  121. Take input of Linked List - Optimized
+  122. Length Of Linked List
+  123. Linked List Operations
+  124. Insert at Head
+  125. 10. Insert at Tail.mp4
+  Coding Exercise 101: Question : Insert at Tail - Recursive
+  Coding Exercise 102: Insert at Tail - Recursive
+  126. 11. HW - Insert at Tail - Recursive
+  127. 12. Insert at Index- Iteratively
+  Coding Exercise 103: Insert at Index - Recursive
+  128. 13. HW - Insert at Index - Recursion
+  129. 14. Delete a Node - Head
+  130. 15. Delete a Tail Node
+  Coding Exercise 104: Delete Tail Recursively
+  131. (HW) Delete Tail Recursively
+  132. Delete Node at Given Index
+  133. (HW) Delete a Node Recursively
+  134. Delete Node by Value
+  135. Delete a Node in LL
+  136. Search in LL By Value
+  Coding Exercise 105: Search a Node by Index
+  137. (HW) Search by Index
+  138. Array vs Linked List
+  139. Linked List Class
+  Quiz 1: Quiz Question - Linked List
+Section 31: Linked List II
+  140. Middle of LL
+  141. Middle of LL - 2 pointer method
+  142. Merge two Sorted Linked List
+  143. Reverse a LL (Recursive)
+  144. Reverse LL Optimized (Recursion)
+  145. Reverse Linked List (Iteration)
+  146. Merge Sort Linked List
+  147. Types of Linked List
+  Practice Test 1: Practice Test : Linked List
+Section 32: Linked List Practice Questions
+  Coding Exercise 106: Find the Node Index in Linked List
+  Coding Exercise 107: Middle of the Linked list
+  Coding Exercise 108: Remove Linked List Elements
+  Coding Exercise 109: Remove Duplicate Elements from Linked List
+  Coding Exercise 110: Reverse a Linked List
+  Coding Exercise 111: Palindrome Linked List
+  Coding Exercise 112: Linked List Cycle
+Section 33: Stacks
+  148. Introduction To Stack
+  149. Stack - LIFO Principle
+  150. Operations on Stack
+  151. Stack Implementation using List
+  152. Visualizing Stack Using List
+  153. Stack using Linked List
+  154. Stack Using LL - Optimized
+  155. Stack Using LL Implementation
+Section 34: Queues
+  156. Introduction To Queue
+  157. Operations in Queue
+  158. Queue with Inbuilt List
+  159. Queue using List - Implementation
+  160. Queue Using Linked list
+  161. Queue Using LL (Implementation)
+  162. Types Of Queue
+Section 35: Practice Questions - Stack and Queues
+  Coding Exercise 113: Next Greater Element
+  Coding Exercise 114: Valid Paranthesis
+  Coding Exercise 115: Remove Consecutive Duplicates
+  Coding Exercise 116: Reverse Array using Stack
+  Coding Exercise 117: Next Smaller Element
+  Coding Exercise 118: Evaluate Postfix Expression
+  Coding Exercise 119: Winner of the Circular Game
+  Coding Exercise 120: Largest Rectangle in Histogram
+Section 36: Trees : Generic Trees
+  163. Introduction To Trees
+  164. Tree Examples and Applications
+  165. Terminologies in a Tree
+  166. Defining a TreeNode
+  167. Print Tree
+  168. Print Tree Detailed
+  169. Take Input (Recursively)
+  170. Take Input Level Wise
+  171. Count Nodes in a Tree
+  172. Height of a Tree
+  173. Traversal in a Tree
+Section 37: Generic Trees Practice Questions
+  Coding Exercise 121: Count Nodes in a N-arry Tree
+  Coding Exercise 122: Sum of Nodes
+  Coding Exercise 123: Largest Value in each tree row
+Section 38: Binary Trees
+  174. Introduction To Binary Tree
+  175. Binary Tree Node
+  176. Print Binary Tree
+  177. Take Input Binary Trees
+  178. Take Input level Wise
+  179. Diameter of Tree
+  180. Diameter of Tree - Optimised
+  181. IsBalanced binary Tree
+  182. Traversals in Binary Tree
+  183. Construct Tree from Preorder and Inorder
+  184. Construct Tree from Preorder and Inorder - Solution
+  185. Construct a tree from inorder and postorder
+  186. Types of Binary Tree
+Section 39: Binary Tree Practice Questions
+  Coding Exercise 124: Binary Tree Inorder Traversal
+  Coding Exercise 125: Binary Tree Preorder Traversal
+  Coding Exercise 126: Binary Tree Postorder Traversal
+  Coding Exercise 127: Maximum Depth of a Binary Tree
+  Coding Exercise 128: Balanced Binary Tree
+  Coding Exercise 129: Same Tree
+  Coding Exercise 130: Sum of Left Leaves
+  Coding Exercise 131: Binary Tree Right Side View
+Section 40: Binary Search Tree (BST)
+  187. Introduction To BST
+  188. BST Node and Print
+  189. Search in a BST
+  190. Sorted List to BST
+  191. Check BST
+  192. Check BST Optimized
+  193. Print Elements in a range
+  194. Check BST using Limits
+  195. BST Class - Search
+  196. BST Class - Insert Function
+  197. BST Class - Delete Method
+  198. BST Class - Complexity
+  199. Balancing a Tree
+Section 41: BST Practice Questions
+  Coding Exercise 132: Search in a BST
+  Coding Exercise 133: Successor and Predecessor in a BST
+  Coding Exercise 134: Recover a BST
+  Coding Exercise 135: Kth smallest element in BST
+  Coding Exercise 136: BST Queries
+Section 42: Hashmaps
+  200. Introduction to Hashmaps
+  201. Why Hashmaps ?
+  202. Inbuilt Hashmap in Python
+  203. Hashmap/Dictionaries Questions
+  204. Implementing our own hashmap - Hashing
+  205. Collision Handing
+  206. Open Addressing - Insert and Search
+  207. Open Addressing - Delete
+  208. Hashmap Implementation - Chaining (Linked List Class)
+  209. Hashmap Chaining Implementation
+  210. Complexity Analysis of our Implemented Hashmap
+  211. Implementing Rehashing in our Hashmap
+Section 43: Hashmap Practice Questions
+  Coding Exercise 137: Count Even Odd
+  Coding Exercise 138: Group Anagrams
+  Coding Exercise 139: Maximum Frequency Number
+  Coding Exercise 140: Greatest Number Product
+  Coding Exercise 141: Two Sum
+  Coding Exercise 142: Duplicate Number
+Section 44: Graph
+  212. Introduction to Graphs
+  213. Graph Terminologies
+  214. Types Of Graphs
+  215. Graph Implementation - Edge List
+  Coding Exercise 143: Graph using Edge List
+  216. Graph using Adjacency List
+  Coding Exercise 144: Code to Graph using Adjacency List
+  217. Graph using AdjacencyMatrix
+  Coding Exercise 145: Code : Graph using Adjacency Matrix
+  218. Visualising Graph
+  219. Graph Traversal - DFS
+  220. Graph Traversal - BFS
+  221. Traversal on Disconnected Graph
+  222. Number of Components Problem
+  223. Has Path using BFS and DFS
+Section 45: Graph : Practice Question
+  Coding Exercise 146: Number of Unreachable Nodes
+  Coding Exercise 147: Eventual Safe States
+  Coding Exercise 148: Count elements in all subtrees
+  Coding Exercise 149: Number of Complete Components
+  Coding Exercise 150: Center of a Star Graph
+  Coding Exercise 151: All paths from source to target
+  Coding Exercise 152: Keys and Rooms
+  Coding Exercise 153: Number of Provinces
+  Coding Exercise 154: Number of Operations to make Graph Connected
+  Coding Exercise 155: Course Schedule
+Section 46: Dynamic Programming
+  224. 1. Introduction To Dynamic Programming
+  225. Fibonacci with DP - Memoization
+  226. Time Complexity - Fibonacci (Memoized)
+  227. Fibonacci with DP - Tabulation
+  228. Time Complexity - Tabulation Approach
+  229. Minimum Steps to 1 - Question Discussion
+  230. Solution - Minimum Steps to 1
+  231. Count of Balance Binary Tree of height h
+  232. Count of Balanced Binary Tree of Height H - Solution
+  233. Min Cost Path- Question
+  234. Min Cost path- Recursive Solution
+  235. Min Cost Path - Memoization Approach
+  236. Min Cost Path - Tabulation Approach
+Section 47: Dynamic Programming : Practice Question
+  Coding Exercise 156: Longest Increasing Subsequence
+  Coding Exercise 157: Best time to buy and sell stock
+  Coding Exercise 158: Nth Tribonacci Number
+  Coding Exercise 159: Pascals Triangle 2
+  Coding Exercise 160: Minimum cost to climb stairs
+  Coding Exercise 161: Climbing Stairs
+  Coding Exercise 162: House Robbers
+  Coding Exercise 163: Triangle Array
+  Coding Exercise 164: Minimum Falling Path Sum
+  Coding Exercise 165: Minimum Falling Path Sum II
+  Coding Exercise 166: Unique Paths
+  Coding Exercise 167: Unique Paths II
+Section 48: Python For Data Analysis
+  237. Working With Numpy With Python
+  238. Pandas Dataframe And Series
+  239. Data Analysis And Manipulation
+Section 49: Data Visualization With Python
+  240. Read Data From Various Data Scources
+  241. Data Visualization With Matplotlib
+Section 50: Working With Sqlite And Python
+  242. Data Visualization With Seaborn
+  243. Sqlite With Python
+Section 51: Introduction To MultiThreading With Python
+  244. What is Process And Threads
+  245. MultiThreading Practical Impelemntation
+  246. Multiprocessing With Python
+  247. Thread Pool Executor And Process Pool
+  248. Webscraping Usecases With Multithread
+  249. Factorial Usecase With Multi Processing
+Section 52: Logging In Python
+  250. Logging In Python
+  251. Loggign With Multiple Loggers
+  252. Logging Implementation With a real World Example
+Section 53: Introduction To Flask Framework
+  253. Introduction To Flask Framework
+  254. Understanding A Simple Flask Web Application
+  255. Integrating HTML With Flask
+  256. HTTP Verbs GET And Post
+  257. Building Dynamically Url Jinja 2
+  258. Put Delete And API's In Flask
