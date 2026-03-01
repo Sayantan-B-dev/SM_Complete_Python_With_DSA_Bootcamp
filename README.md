@@ -28,3 +28,36 @@
 `bulk_rename.py `
 ```
 --- 
+
+
+```
+# In Anaconda Prompt, run:
+where conda
+
+# Load Conda into current Git Bash session
+source /c/Users/Virus404/anaconda3/etc/profile.d/conda.sh
+
+# Verify Conda is now available
+conda --version
+
+# Accept main channel
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+
+# Accept R channel
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+
+# Accept msys2 channel
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/msys2
+
+# Create environment
+conda create -p ./venv python=3.12 -y
+
+# Activate environment
+conda activate ./venv
+
+# Install Jupyter kernel
+pip install ipykernel
+
+# Register kernel
+python -m ipykernel install --user --name venv --display-name "Python (venv)"
+```
