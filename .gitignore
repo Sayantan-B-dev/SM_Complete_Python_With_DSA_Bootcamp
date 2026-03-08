@@ -13,6 +13,10 @@ __pycache__/
 # Ignore all Jupyter notebooks
 *.ipynb
 
+
+*.pdf
+
+
 # Optional: ignore notebook checkpoints
 .ipynb_checkpoints/
 
