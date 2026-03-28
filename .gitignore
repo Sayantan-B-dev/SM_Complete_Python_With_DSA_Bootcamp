@@ -16,7 +16,9 @@ __pycache__/
 *.py
 
 *.pdf
-
+*.html
+*.css
+*.json
 
 # Optional: ignore notebook checkpoints
 .ipynb_checkpoints/
