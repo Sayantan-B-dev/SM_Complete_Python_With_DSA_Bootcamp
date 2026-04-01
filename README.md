@@ -1,3 +1,4 @@
+
 # root files
 - > `.gitattributes`, its the git attributes file, used for line endings.
 - > `.gitignore`, its the git ignore file, used for ignore files.
@@ -12,6 +13,7 @@
 - > use `filecount.py` to count the number of files in the project.
 - > use `stat.py` to get the file and their total consumed storage stats.
 - > `python_file_tree.txt` contains all python project file location well structured
+- > `allmd.py`, collects all `.md` files from entire project into `AllMd/`, while ignoring junk folders like `.git`, `venv`, `node_modules`, etc, and moves files containing `_ - _Coding_Exercise_` into `AllMd/exercises/`
 
 ---
 > Make sure to see the `full_folder_tree.txt` and `python_folder_tree.txt` to see overall file structure. 2nd one might help you with finding appropriate **python projects** that has been done in this repo.
@@ -19,45 +21,59 @@
 ---
 
 ```
+
 {open all folder drop down in your udemy course, copy the div, paste it in index.html}
 
-`index.html` -> 
-`extract_data.py` -> 
-`output.html ` -> 
-`create_course_tree.sh ` -> 
+`index.html` ->
+`extract_data.py` ->
+`output.html ` ->
+`create_course_tree.sh ` ->
 `bulk_rename.py `
+
 ```
 --- 
 
-
 ```
+
 # In Anaconda Prompt, run:
+
 where conda
 
 # Load Conda into current Git Bash session
+
 source /c/Users/Virus404/anaconda3/etc/profile.d/conda.sh
 
 # Verify Conda is now available
+
 conda --version
 
 # Accept main channel
-conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+
+conda tos accept --override-channels --channel [https://repo.anaconda.com/pkgs/main](https://repo.anaconda.com/pkgs/main)
 
 # Accept R channel
-conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+
+conda tos accept --override-channels --channel [https://repo.anaconda.com/pkgs/r](https://repo.anaconda.com/pkgs/r)
 
 # Accept msys2 channel
-conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/msys2
+
+conda tos accept --override-channels --channel [https://repo.anaconda.com/pkgs/msys2](https://repo.anaconda.com/pkgs/msys2)
 
 # Create environment
+
 conda create -p ./venv python=3.12 -y
 
 # Activate environment
+
 conda activate ./venv
 
 # Install Jupyter kernel
+
 pip install ipykernel
 
 # Register kernel
+
 python -m ipykernel install --user --name venv --display-name "Python (venv)"
+
 ```
+
